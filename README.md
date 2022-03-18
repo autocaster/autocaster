@@ -14,11 +14,11 @@ This is a very early stage of development. Features to be added:
  * Text-to-speech and/or audio playback with images with generic animation (for enriching textual content to play in 'TV emulation' scenario)
 
 
-# Installation
+# Installation and Use
 
 ## Linux:
 
-Install Python modules:
+### 1) Install Python modules:
 
 apt-get install python3-feedparser
 
@@ -28,6 +28,8 @@ apt-get install python3-pafy
 
 pip3 install yt-dlp
 
+### 2) Add/edit channels according to your needs and launch the script
+
 
 ## Windows:
 
@@ -36,7 +38,7 @@ pip3 install yt-dlp
 Download and install Python:
 https://www.python.org/downloads/release/python-3103/
 
-Go to c:\Users\%username%\AppData\Local\Programs\Python\Python310\Scripts\ with Windows command line and execute the following:
+Go to c:\Users\ %username% \AppData\Local\Programs\Python\Python310\Scripts\ with Windows command line and execute the following:
 
 pip install feedparser
 
@@ -58,6 +60,10 @@ View -> Options -> Playback -> After playback -> select 'Exit' at dropdown menu 
 And also for better viewing experience:
 
 View -> Options -> Playback -> Fullscreen -> Launch files in fullscreen
+
+### 3) Add/edit channels according to your needs and launch the script
+
+You may want to open it by right clicking on the script file and selecting 'Edit with IDLE' than edit it and launch using F5 keyboard button.
 
 <!--
 **autocaster/autocaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
