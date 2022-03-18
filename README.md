@@ -63,7 +63,7 @@ View -> Options -> Playback -> Fullscreen -> Launch files in fullscreen
 
 ### 3) Add/edit channels according to your needs and launch the script
 
-You may want to open it by right clicking on the script file and selecting 'Edit with IDLE' than edit it and launch using F5 keyboard button.
+You may want to open it by right clicking on the script file and selecting 'Edit with IDLE' then edit it and launch using F5 keyboard button.
 
 <!--
 **autocaster/autocaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
