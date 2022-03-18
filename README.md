@@ -1,6 +1,6 @@
 # About Autocaster
 
-This script is for sequential, seemless, looped playback of Youtube or any other web-hosted videos from any amount of user selected channels, including RSS sources.
+This script is for sequential, seamless, looped playback of Youtube or any other web-hosted videos parsed and fetched from any amount of user selected channels, including RSS sources.
 
 Autocaster will remember played videos and won't repeat itself.
 
