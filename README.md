@@ -2,6 +2,8 @@
 
 This script is for sequential, seamless, looped playback of Youtube or any other web-hosted videos parsed and fetched from any amount of user selected channels, including RSS sources.
 
+There are two main steps in Autocsater's work: 1. Extract a direct mp4 link to a video from user-defined playlists (standard Youtube playlists or any other RSS source) 2. Send the video link for playback to a video player (different for each OS) and go to step 1 once it's over.
+
 Autocaster will remember played videos and won't repeat itself.
 
 User can select how old/recent videos should be. Filtering by video title is also available.
